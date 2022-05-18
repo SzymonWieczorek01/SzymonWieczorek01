@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SzymonWieczorek01
-- 👀 I’m interested in football
-- 🌱 I’m currently learning HTML/CSS, basically anything
+- 👀 I’m playing and watching football
+- 🌱 I’m currently learning Python,Java and Manual Testing (ISTQB), but basically anything is in my interests
 - 📫 How to reach me szymon.w570@gmail.com
 
-I want to become tester.
+I want to become a tester.
 
 <!---
 SzymonWieczorek01/SzymonWieczorek01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
