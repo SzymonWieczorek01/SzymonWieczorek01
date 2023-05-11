@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SzymonWieczorek01
 - 👀 I’m playing and watching football
-- 🌱 I’m currently learning Python,Java and Manual Testing (ISTQB), but basically anything is in my interests
+- 🌱 I’m currently learning Python, Java and Manual Testing (ISTQB), but basically anything is in my interests
 - 📫 How to reach me szymon.w570@gmail.com
 
 I want to become a tester.
